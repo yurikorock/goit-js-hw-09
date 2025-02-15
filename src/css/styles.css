@@ -27,3 +27,13 @@
 .gallery-item {
   width: calc((100% - 2 * 24px) / 3);
 }
+
+.feedback-form {
+  width: 408px;
+  height: 296px;
+  margin: 0 auto;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
